@@ -7,6 +7,6 @@ public class Triangle {
 
         boolean sum =  ( ( a + b > c ) && ( a + c > b ) && ( b + c > a ) ); 
           
-        System.out.println( a + ", " + b + ", " + c + " : " + sum );
+        System.out.println( a + ", " + b + ", " + c + ": " + sum );
     }
 }
